@@ -1,0 +1,3 @@
+requests
+Py3AMF
+HTMLParser
