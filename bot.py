@@ -50,7 +50,7 @@ class BasicFreggersBot(FreggersBot):
 
 bots = [
 	BasicFreggersBot('WeirdFlex','123pizza'),
-	BasicFreggersBot('Username2', 'Password2'),
+	BasicFreggersBot('Soulscream', 'test1234'),
 	BasicFreggersBot('Username3', 'Password3'),
 ]
 
